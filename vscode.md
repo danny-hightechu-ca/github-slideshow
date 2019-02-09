@@ -2,8 +2,8 @@
 
 ## Why would you want to use a text editor?
 
-[Erase me and write your response here!]
+[This is because a text editor allows you to open, view, and edit plain text files.]
 
 ## What other text editors are out there?
 
-[Erase me and write your response here!]
+[Notepad++, Brackets, Komodo Edit,Visual Studio Code, and MeetingWords are examples of a text editors]
